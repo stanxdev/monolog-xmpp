@@ -1,5 +1,5 @@
 # monolog-xmpp
-XMPP handler for [Monolog](https://github.com/Seldaek/monolog), uses [XMPP Library](https://github.com/fabiang/xmpp)
+XMPP handler for [Monolog](https://github.com/Seldaek/monolog), uses [XMPP Library](https://github.com/stanxdev/fabiang-xmpp)
 
 ## Installation
 
